@@ -1,4 +1,4 @@
-# A mini server similar to Insta.
+# Mini server(functionality similar to Insta).
 
 Languages like js,css, ejs simiar to html ,node js are used.
 Note: In a folder with some name "ABC" contains package.json through which we can install express ie.( node-modules and package-lock.json). In the same folder we have a file "index2Insta.js" 
